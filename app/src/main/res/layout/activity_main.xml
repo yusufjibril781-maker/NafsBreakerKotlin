@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#0a0a1a"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="⚡ NAFSBREAKER ⚡"
+        android:textSize="32sp"
+        android:textColor="#00f0ff"
+        android:layout_marginBottom="40dp"/>
+
+    <Button
+        android:id="@+id/startBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="START MISSION"
+        android:backgroundTint="#009944"
+        android:paddingLeft="32dp"
+        android:paddingRight="32dp"/>
+</LinearLayout>
