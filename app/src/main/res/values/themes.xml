@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.NafsBreaker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#0a0a1a</item>
+    </style>
+</resources>
